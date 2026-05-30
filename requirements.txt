@@ -1,0 +1,6 @@
+dotenv
+numpy
+pandas
+torch
+tqdm
+transformers
