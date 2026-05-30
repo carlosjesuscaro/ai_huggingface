@@ -1,4 +1,5 @@
-dotenv
+ipywidgets
+python-dotenv
 numpy
 pandas
 torch
